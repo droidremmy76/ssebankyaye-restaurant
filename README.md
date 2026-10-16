@@ -1,16 +1,17 @@
 # Ssebankyaye Restaurant — website concept
 
-A responsive, single-page website concept for Ssebankyaye Restaurant in Wandegeya, Kampala, published with GitHub Pages.
+Responsive website concept for Ssebankyaye Restaurant in Wandegeya, Kampala.
 
 ## Preview
 https://droidremmy76.github.io/ssebankyaye-restaurant/
 
-## Important before launch
-- This is a design sample, not an official restaurant website.
-- Food and interior imagery is illustrative stock photography, not verified restaurant media. Replace it with photos approved by the owner.
-- Confirm the official spelling/branding, menu, dish descriptions, prices, opening hours, location and contact number.
-- The current public listing gave the number +256 704 590401 and Jjunju Road, Wandegeya; verify with the owner before treating those as official.
-- WhatsApp form creates an enquiry only. It does not confirm bookings automatically.
-- No current menu pricing has been hard-coded.
+## Photography
+The design now uses real photographs of Ugandan food, including luwombo and matooke dishes, hosted on Wikimedia Commons rather than generic Unsplash food images. These are food/cuisine reference images and are not represented as photos of Ssebankyaye Restaurant itself. Image credits and CC BY-SA attribution are noted in the site footer. The owner’s own Google Business Profile photos should be added after confirming they are the correct business photos and reuse is permitted.
+
+## Before official launch
+- Confirm spelling/branding, menu, dish descriptions and prices.
+- Confirm opening hours, address and phone number.
+- Replace or supplement reference food photos with owner-approved images of the restaurant’s actual food and premises.
+- WhatsApp form sends an enquiry only; it does not confirm a booking.
 
 Built by Habbib Digital Studio.
